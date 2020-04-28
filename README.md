@@ -106,7 +106,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - Filip Komarek - pylyf.kom@gmail.com
+Filip Komarek - pylyf.kom@gmail.com
 
 Project Link: [https://github.com/pylyf/stockscrape](https://github.com/pylyf/stockscrape)
 
